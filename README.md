@@ -1,5 +1,3 @@
-# EcoStream-AI
-Snowflake Native App for real-time supply chain carbon optimization
 # 🌱 EcoStream AI: Supply Chain Optimizer
 
 EcoStream AI is a **Snowflake Native Application** designed for real-time carbon footprint visibility and optimization.
